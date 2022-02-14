@@ -7,6 +7,4 @@
 
 ### 4. [CLUIT](https://tosaka-m.github.io/cluitvc.github.io/htmls/jvs_mbank.html)
 
-<iframe src="https://tosaka-m.github.io/cluitvc.github.io/htmls/pdfs/cluitvc.pdf" width="100%" height="100%">
-   <p><b>表示されない時の表示</b>: <a href="pdf.pdf">PDF をダウンロード</a>.</p>
-</iframe>
+<object data="https://tosaka-m.github.io/cluitvc.github.io/htmls/pdfs/cluitvc.pdf" width="1000" height="1000" type='application/pdf'></object>
