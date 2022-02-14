@@ -1,5 +1,5 @@
 
-このページでは Contrastive Learning for Unsupervised Image-to-Image Translation という論文の手法を Voice Conversion タスクに適用したモデルの推論結果のサンプルと OV2L というイベントで本モデルに関して発表した際のスライド資料を載せています。
+このページでは Contrastive Learning for Unsupervised Image-to-Image Translation という論文の手法を Voice Conversion タスクに適用したモデルの推論結果のサンプルと OV2L というイベントで本モデルについて発表した際のスライド資料を載せています。
 
 
 ## デモ一覧
